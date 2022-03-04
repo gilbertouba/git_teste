@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 teste.txt branch dev 02
 -+-+-+-+-+-+-+-+-+-+
 gilberto
