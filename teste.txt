@@ -1,2 +1,4 @@
 teste.txt branch dev 02
 teste
+teste
+alterado no git
