@@ -1,6 +1,1 @@
-1-alterado no git
-alt
 teste.txt branch dev 02
-teste
-teste
-alterado no git
